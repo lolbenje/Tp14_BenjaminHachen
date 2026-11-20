@@ -1,0 +1,32 @@
+h1 {
+    font-size: xx-large;
+    color: rgb(65, 179, 12);
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+h2 {
+    font-size: large;
+    color: rgb(0, 211, 28);
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+p {
+   
+    color: rgb(0, 0, 0);
+    font-style:oblique;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+body {
+    background-color: darkkhaki;
+}
+ 
+header {
+    color: rgb(14, 252, 141);
+    size: 0cap;
+}
